@@ -28,5 +28,5 @@ Bu depo, **Ruti Medya** ekosisteminde yer alan tüm projeler için merkezi bir d
 ---
 
 <div align="center">
-  <p>🤍 <b> made with vesityphp</b></p>
+  <p><b> made with 🤍 vesityphp</b></p>
 </div>
